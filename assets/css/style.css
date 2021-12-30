@@ -108,6 +108,10 @@ p {
 	margin-bottom: 10px;
 	padding-left: 6px;
 }
+.module .module__content .phone-me{
+	text-decoration: none;
+	color: #fff;
+}
 .circle {
 	font-size: 14px;
 	color: #fff;
